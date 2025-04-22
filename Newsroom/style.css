@@ -1,0 +1,149 @@
+
+.main-content{
+  padding-top: 180px;
+    
+}
+
+.mobile-con{
+  border: solid;
+  border-color:green ;
+  background-color: #ebf1ee;
+  border-bottom: none;
+  border-top: none;
+  border-right: none;
+  border-radius: 8px;
+  
+  
+  
+}
+
+.img-mobile{
+  
+  border-radius: 20px;
+  
+
+  
+}
+
+.web-moto{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-top: 3vh;
+    font-variant: small-caps;
+}
+
+.web-moto-head{
+    font-family: Helvetica;
+    font-weight: bolder;
+    font-size: 5vh;
+    
+    
+}
+
+.web-moto-mobile{
+  font-family: Verdana;
+  font-size: 15px;
+  margin-top: 3vh;
+  font-variant: small-caps;
+}
+
+.button{
+    display: inline-block;
+    background-color: #00bf63; 
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    
+
+}
+
+.button:hover{
+    background-color: #1a8553;
+    color: white;
+}
+
+.card{
+    height: 40vh;
+}
+
+.card-g img{
+    height: 300px;
+    object-fit: cover;
+}
+
+.dailynews{
+  margin-bottom: 30px;
+}
+
+.card-daily {
+  display: -webkit-box;
+  -webkit-line-clamp: 5; /* Number of lines to show */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-margin{
+  margin-bottom: 30px;
+}
+
+
+.header{
+    font-family: Helvetica;
+    font-weight: bolder;
+    font-size: 6vh;
+    font-style: italic;
+    margin-top: 5vh;
+    
+}
+
+.paragraph{
+    margin-bottom: 16px; 
+    line-height: 1.9;     
+    font-family: 'Georgia', serif; 
+    font-size: 20px;
+    color: #131212;
+    margin-top: 8vh;
+    margin-left: 10%;
+    margin-right:10%;
+
+  }
+
+  .right-border{
+    border: solid;
+    border-color: rgb(17, 82, 115);
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    padding-left:20px;
+    background-color: rgb(243, 251, 251);
+  }
+
+
+
+
+  .section{
+    display: none;
+    
+  }
+  
+
+  .section:target {
+    display: block;
+  }
+
+  .anchor-link {
+    color: black; 
+    text-decoration: none; 
+  }
+
+  .anchor-link:hover {
+    color: rgb(95, 117, 101); 
+  }
+
+  
+  
+
+  
